@@ -1,0 +1,1 @@
+alert('Jestem admin js');
